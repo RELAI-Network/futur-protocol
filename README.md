@@ -1,2 +1,2 @@
 # airstore-pallets
-Pallets for the  Decentralized App Store AIR Store
+Pallets for the  Decentralized App Store Futur Store
